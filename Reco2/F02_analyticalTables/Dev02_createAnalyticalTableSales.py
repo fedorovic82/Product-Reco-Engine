@@ -1,5 +1,4 @@
 # Databricks notebook source
-# MAGIC %run "/Shared/dataScience/Reco2/F02_analyticalTables/readFeatureMatrixFunction"
 
 # COMMAND ----------
 
